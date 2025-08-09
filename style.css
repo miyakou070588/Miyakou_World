@@ -1,12 +1,12 @@
 p{
-font-family: serif;    
+font-family: serif; 
+color: white;   
 }
 h1{
    font-family: serif; 
+   color: white;
 }
-h5{
+h3{
 font-family: serif;
-}
-body{
-   background-color: aqua;
+color:white;
 }
